@@ -8,7 +8,7 @@ pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 echo
 echo
-python2 meizu.py
+python2 friends.py
 echo
 clear
 echo
@@ -93,12 +93,12 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  RAHMAD  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  0888099xxxxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  kucingkaget22@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @19_mamadee"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @ardeaseptiaaani"$i"          Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  C.L.A.Y "$i"                  Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp  :  0557254790  "$i"              Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  oanonymous85@gmail.com "$i"   Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE   :  Shadow hacker Dz"$i"          Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  Shadow hacker Dz"$i"          Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  @Shadow hacker Dz"$i"         Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -266,9 +266,9 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
-echo $ku"YouTube  :"$i" YouTube RMD"
-echo $ku"WhatsApp :"$i" 0887882xxxx"
+echo $ku"Facebook :"$i" moussa.ufonet"
+echo $ku"YouTube  :"$i"Shadow hacker Dz "
+echo $ku"WhatsApp :"$i" MRX"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
