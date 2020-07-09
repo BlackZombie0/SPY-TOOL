@@ -6,7 +6,7 @@ apt update
 
 apt upgrade
 
-git clone https://github.com/FSOCIETY-coder-dz/FSO-TOOLSv2.git
+git clone https://github.com/spyeye-dz/SPY-TOOL.git
 
 
 cd FSO-TOOLSv2
